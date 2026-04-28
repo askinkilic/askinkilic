@@ -1,8 +1,10 @@
 <div align="center">
 
 <!-- ============ HERO BANNER ============ -->
-<!-- Azure brand gradient (#0078D4 -> #00BCF2). 3-stop for richer transition. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:0078D4,100:00BCF2&height=240&section=header&text=A%C5%9Fk%C4%B1n%20K%C4%B1l%C4%B1%C3%A7&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%26%20AI%20Engineer&descSize=20&descAlignY=58&descColor=ffffff" width="100%" alt="Header banner" />
+<!-- Azure brand gradient (#1e3c72 -> #0078D4 -> #00BCF2). -->
+<!-- desc uses middle-dot (·) instead of ampersand because capsule-render -->
+<!-- does not escape & in SVG output, which breaks XML parsing in browsers. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:0078D4,100:00BCF2&height=240&section=header&text=A%C5%9Fk%C4%B1n%20K%C4%B1l%C4%B1%C3%A7&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%C2%B7%20AI%20Engineer&descSize=20&descAlignY=58&descColor=ffffff" width="100%" alt="Header banner" />
 
 <!-- ============ SOCIAL BADGES ============ -->
 <p>
