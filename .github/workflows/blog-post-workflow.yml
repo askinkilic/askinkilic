@@ -1,0 +1,41 @@
+name: Latest Blog Posts
+
+# Profile README'yi askinkilic.com.tr/feed/'den son 5 yazı ile günceller.
+# Her gün 03:00 UTC = 06:00 İstanbul saatinde çalışır. Manuel tetikleme de mümkündür.
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+# Minimum yetki: sadece bu reponun kendi içeriğini yazma izni.
+# Secret kullanılmıyor; GITHUB_TOKEN'ın default scope'u yeterli.
+permissions:
+  contents: write
+
+# Aynı anda birden fazla run çalışmasını engelle.
+concurrency:
+  group: blog-post-workflow
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        # actions/checkout v4 (resolved 2026-04-28)
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
+
+      - name: Pull latest blog posts from feed
+        # gautamkrishnar/blog-post-workflow@1.9.6 (resolved 2026-04-28)
+        # https://github.com/gautamkrishnar/blog-post-workflow
+        uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597
+        with:
+          feed_list: "https://www.askinkilic.com.tr/feed/"
+          max_post_count: 5
+          template: "- [$title]($url) &mdash; *$date*"
+          date_format: "dd MMM yyyy"
+          commit_message: "chore(readme): refresh latest blog posts"

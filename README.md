@@ -1,136 +1,162 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=220&section=header&text=Aşkın%20Kılıç&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20AI%20Engineer%20%7C%20Azure%20%7C%20DevOps%20%7C%20GitHub&descSize=16&descColor=FFFFFF&descAlignY=55" width="100%" />
+<div align="center">
 
-<p align="center">
-  <a href="https://www.askinkilic.com.tr"><img src="https://img.shields.io/badge/Blog-askinkilic.com.tr-0078D4?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/askinkilic/"><img src="https://img.shields.io/badge/LinkedIn-askinkilic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/askinkilic"><img src="https://img.shields.io/badge/X-@askinkilic-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@askinla"><img src="https://img.shields.io/badge/YouTube-@askinla-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://instagram.com/askinkilic"><img src="https://img.shields.io/badge/Instagram-askinkilic-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<!-- ============ HERO BANNER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=A%C5%9Fk%C4%B1n%20K%C4%B1l%C4%B1%C3%A7&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20AI%20Engineer&descSize=20&descAlignY=58&descColor=ffffff" width="100%" alt="Header banner" />
+
+<!-- ============ SOCIAL BADGES ============ -->
+<p>
+  <a href="https://www.askinkilic.com.tr"><img src="https://img.shields.io/badge/Blog-askinkilic.com.tr-0078D4?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/askinkilic/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/askinkilic"><img src="https://img.shields.io/badge/X-@askinkilic-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.youtube.com/@askinla"><img src="https://img.shields.io/badge/YouTube-@askinla-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://instagram.com/askinkilic"><img src="https://img.shields.io/badge/Instagram-askinkilic-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=60&lines=Merhaba%2C+ben+A%C5%9Fk%C4%B1n+%F0%9F%91%8B;Azure+AI+Foundry+%7C+GPT+%7C+FLUX+ilham%C4%B1yla+%C3%BCretiyorum;Tam+otonom+AI+blog+sistemi+in%C5%9Fa+ettim+%F0%9F%9A%80;Teknolojiyi+anlamak+yetmez%2C+anlatmak+da+laz%C4%B1m." alt="Typing SVG" />
+<!-- ============ TYPING ANIMATION ============ -->
+<a href="https://github.com/askinkilic">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&width=640&height=50&lines=Cloud-native+sistemler+kuran+m%C3%BChendis;Azure+%E2%80%A2+DevOps+%E2%80%A2+AI+Integration;Building+autonomous+AI+systems;Teknolojiyi+anlatmak+da+laz%C4%B1m." alt="Typing SVG" />
+</a>
+
+<!-- ============ PROFILE VIEWS ============ -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=askinkilic&style=for-the-badge&color=0078D4&label=PROF%C4%B0L+Z%C4%B0YARET%C4%B0" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=askinkilic&style=flat-square&color=0078D4&label=Profil+Ziyareti" />
-</p>
+</div>
 
 ---
 
-### 👨‍💻 Hakkımda
+## 👋 Hakkımda
+
+İstanbul'dan, **Cloud & AI Engineer** olarak çalışıyorum. Cloud-native altyapı tasarımı, DevOps otomasyonu ve yapay zekâ entegrasyonu üzerine odaklanıyorum.
+
+İşin teknik tarafıyla yetinmiyor, **Türkçe teknoloji içeriği** üretmeye de zaman ayırıyorum — çünkü teknolojiyi anlamak yetmez, anlatmak da lazım.
 
 ```yaml
-isim: Aşkın Kılıç
-lokasyon: İstanbul, Türkiye
-rol: Cloud & AI Engineer
-şirket: Logosoft Bilişim Teknolojileri A.Ş.
-odak_alanları:
-  - Azure bulut altyapısı tasarımı ve yönetimi
-  - DevOps pipeline otomasyonu (Azure DevOps, GitHub Actions)
-  - AI-powered içerik üretim sistemleri (Azure AI Foundry + WordPress)
-  - Türkçe teknik blog yazarlığı ve içerik otomasyonu
-güncel_proje: askinkilic.com.tr — Tam otonom AI blog platformu
-ai_stack: GPT-5.4-mini (içerik) + GPT-5.4-nano (metadata) + FLUX.1-Kontext-pro (görsel)
-```
-
-### 🔧 Şu An Üzerinde Çalıştıklarım
-
-- 🤖 **wp-auto-publisher** — Azure AI Foundry destekli tam otonom WordPress yayın sistemi
-- 🧠 5 katmanlı AI detection evasion pipeline'ı (humanization + burstiness + perplexity)
-- 🖼️ **FLUX.1-Kontext-pro** ile AI görsel üretimi + Pexels fallback + WebP dönüşüm
-- 📊 15+ kurallı kalite gate sistemi (skor ≥ 75, blocker = 0)
-- 🔗 Bidirectional otomatik iç link ağı
-- 📈 GSC keyword gap analizi + otomatik SEO optimizasyonu
-- 🛡️ Budget guard ($5/gün, $100/ay AI harcama limitleri)
-
-### 🏗️ Öne Çıkan Proje: askinkilic.com.tr
-
-<table>
-<tr>
-<td>
-
-**🌐 [askinkilic.com.tr](https://www.askinkilic.com.tr)** — Tam otonom AI blog platformu
-
-27 RSS kaynağından toplanan İngilizce teknoloji içeriklerini **GPT-5.4-mini** ile Türkçe'ye çevirip, 5 katmanlı humanization pipeline'ı ile doğallaştırarak, **FLUX.1-Kontext-pro** ile AI görsel üreterek WordPress'e otomatik yayınlayan sistem.
-
-| Bileşen | Teknoloji |
-|---------|-----------|
-| **AI İçerik** | Azure AI Foundry (GPT-5.4-mini + nano) |
-| **AI Görsel** | FLUX.1-Kontext-pro + Pexels fallback |
-| **Backend** | Python 3.11 + WordPress 6.9 + MariaDB |
-| **Infra** | Azure VM + Nginx + Redis + PHP-FPM |
-| **SEO** | Rank Math + Schema.org + IndexNow |
-| **CI/CD** | GitHub Actions → SCP deploy |
-| **Monitoring** | Watchdog + Site Audit + Web Vitals |
-
-</td>
-</tr>
-</table>
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,py,githubactions,docker,nginx,wordpress&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,redis,terraform,mysql,bash,vscode&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,kubernetes,powershell,html,css&theme=dark" />
-</p>
-
-### ⚡ Günlük Otomasyon Pipeline
-
-```
- 08:00  12:30  17:00  21:00   ← Günde 4 post otomatik yayın
-   │      │      │      │
-   ▼      ▼      ▼      ▼
-┌──────────────────────────────────────────────────┐
-│  RSS (27 kaynak) → AI Engine (5 faz) → Quality   │
-│  Gate → Plagiarism → FLUX Görsel → WordPress     │
-└──────────────────────────────────────────────────┘
-   +  Watchdog · Site Audit · HTML Health Check
-   +  Content Gap · Post Refresh · Guide Generator
-```
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=askinkilic&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&locale=tr&bg_color=00000000" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=askinkilic&theme=github_dark_dimmed&hide_border=true&locale=tr&background=00000000" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askinkilic&layout=compact&theme=github_dark_dimmed&hide_border=true&locale=tr&bg_color=00000000&langs_count=8" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=askinkilic&theme=github-compact&hide_border=true&area=true&bg_color=00000000" width="95%" />
-</p>
-
-### 📝 Son Blog Yazıları
-
-<!-- BLOG-POST-LIST:START -->
-🔗 [askinkilic.com.tr](https://www.askinkilic.com.tr) adresinden güncel yazılarıma ulaşabilirsiniz.
-<!-- BLOG-POST-LIST:END -->
-
-### 🎯 Sertifikalar & Uzmanlık
-
-```
-☁️  Microsoft Certified: Azure Solutions Architect
-🔧  Azure DevOps & GitHub Actions CI/CD Pipeline Uzmanı
-🤖  Azure AI Foundry — GPT + FLUX entegrasyonları
-🐧  Linux sistem yönetimi (Ubuntu, Nginx, MariaDB)
-📊  SEO & Web Analytics (GSC, GA4, Rank Math)
+location:    İstanbul, Türkiye 🇹🇷
+role:        Cloud & AI Engineer
+focus:       Cloud-native systems · DevOps · AI integration · Technical writing
+philosophy:  "Build things that build things"
 ```
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=100&section=footer" width="100%" />
-</p>
+## 🎯 Odak Alanları / Focus Areas
 
-<p align="center">
-  <b><i>"Teknolojiyi anlamak yetmez, anlatmak da lazım."</i></b>
-</p>
+- ☁️&nbsp;&nbsp; **Cloud Architecture** — Azure üzerinde scalable ve secure altyapılar
+- 🔁&nbsp;&nbsp; **DevOps & Automation** — CI/CD pipeline'ları, infrastructure-as-code
+- 🤖&nbsp;&nbsp; **AI Integration** — LLM tabanlı uygulamalar ve content automation
+- ✍️&nbsp;&nbsp; **Technical Content** — Türkçe teknoloji blogu, dokümantasyon, eğitim
+
+---
+
+## 🚀 Featured Work
+
+### 🌐 [askinkilic.com.tr](https://www.askinkilic.com.tr)
+
+> *AI destekli Türkçe teknoloji blogu*
+
+Yapay zekâ ile uçtan uca otomatize edilmiş içerik üretim akışıyla sürekli yayında olan bir platform. Cloud, DevOps ve AI alanındaki gelişmeleri Türk geliştirici topluluğuna ulaştırmayı hedefliyor.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**☁️ Cloud & DevOps**
+<br />
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions,nginx&theme=dark" alt="Cloud & DevOps stack" />
+
+**💻 Languages**
+<br />
+<img src="https://skillicons.dev/icons?i=py,ts,js,bash,powershell,html,css&theme=dark" alt="Languages" />
+
+**🗃️ Data & Tools**
+<br />
+<img src="https://skillicons.dev/icons?i=mysql,redis,git,github,linux,vscode&theme=dark" alt="Data & Tools" />
+
+</div>
+
+---
+
+## 🏆 Sertifikalar / Certifications
+
+<div align="center">
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DevOps](https://img.shields.io/badge/Azure_DevOps-CI%2FCD_Specialist-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Actions-Pipeline_Expert-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-System_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SEO](https://img.shields.io/badge/SEO_%26_Analytics-GSC_%E2%80%A2_GA4-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Integration-Azure_AI_Foundry-7B68EE?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=askinkilic&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&locale=tr&bg_color=00000000" height="170" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=askinkilic&theme=github-dark-blue&hide_border=true&locale=tr&background=00000000" height="170" alt="GitHub Streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askinkilic&layout=compact&theme=github_dark_dimmed&hide_border=true&locale=tr&bg_color=00000000&langs_count=8" height="155" alt="Top Languages" />
+
+<br />
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=askinkilic&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=askinkilic&theme=github-compact&hide_border=true&area=true&bg_color=00000000" width="95%" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🌱 Şu An Öğreniyorum / Currently Learning
+
+- 🦀 **Rust** — sistem programlama, performance-critical iş yükleri
+- 🛡️&nbsp; **Cloud-native security** — zero-trust, OIDC federation, supply-chain hardening
+- ⚡ **Edge computing** — Cloudflare Workers, serverless patterns
+- 🧠 **LLM application patterns** — retrieval-augmented generation, agent design
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️&nbsp; Tüm yazılar: **[askinkilic.com.tr](https://www.askinkilic.com.tr)**
+
+---
+
+## 📬 İletişim / Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/-askinkilic.com.tr-0078D4?style=flat-square&logo=hugo&logoColor=white)](https://www.askinkilic.com.tr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/askinkilic/)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/askinkilic)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@askinla)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/askinkilic)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="Footer banner" />
+
+<i>"Build things that build things — and write about them in Turkish."</i>
+
+</div>
