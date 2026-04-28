@@ -36,6 +36,7 @@ jobs:
         with:
           feed_list: "https://www.askinkilic.com.tr/feed/"
           max_post_count: 5
-          template: "- [$title]($url) &mdash; *$date*"
-          date_format: "dd MMM yyyy"
+          # dateformat library (not moment): mmm = month abbrev, MMM = MM+M (minutes!)
+          template: "- [$title]($url) &mdash; *$date*<br/>"
+          date_format: "dd mmm yyyy"
           commit_message: "chore(readme): refresh latest blog posts"
