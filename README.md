@@ -4,7 +4,7 @@
 <!-- Azure brand gradient (#1e3c72 -> #0078D4 -> #00BCF2). -->
 <!-- desc uses middle-dot (·) instead of ampersand because capsule-render -->
 <!-- does not escape & in SVG output, which breaks XML parsing in browsers. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:0078D4,100:00BCF2&height=240&section=header&text=A%C5%9Fk%C4%B1n%20K%C4%B1l%C4%B1%C3%A7&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%C2%B7%20AI%20Engineer&descSize=20&descAlignY=58&descColor=ffffff" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:0078D4,100:00BCF2&height=240&section=header&text=A%C5%9Fk%C4%B1n%20K%C4%B1l%C4%B1%C3%A7&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Dan%C4%B1%C5%9Fman%20%C2%B7%20Consultant&descSize=20&descAlignY=58&descColor=ffffff" width="100%" alt="Header banner" />
 
 <!-- ============ SOCIAL BADGES ============ -->
 <p>
@@ -17,7 +17,7 @@
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="https://github.com/askinkilic">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&width=640&height=50&lines=Cloud-native+sistemler+kuran+m%C3%BChendis;Azure+%E2%80%A2+DevOps+%E2%80%A2+AI+Integration;Building+autonomous+AI+systems;Teknolojiyi+anlatmak+da+laz%C4%B1m." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&width=640&height=50&lines=Cloud-native+sistemler+tasarlayan+dan%C4%B1%C5%9Fman;Azure+%E2%80%A2+DevOps+%E2%80%A2+AI+Integration;Designing+autonomous+AI+systems;Teknolojiyi+anlatmak+da+laz%C4%B1m." alt="Typing SVG" />
 </a>
 
 <!-- ============ PROFILE VIEWS ============ -->
@@ -31,13 +31,13 @@
 
 ## 👋 Hakkımda
 
-İstanbul'dan, **Cloud & AI Engineer** olarak çalışıyorum. Cloud-native altyapı tasarımı, DevOps otomasyonu ve yapay zekâ entegrasyonu üzerine odaklanıyorum.
+İstanbul'dan, **Danışman · Consultant** olarak çalışıyorum. Cloud-native altyapı tasarımı, DevOps otomasyonu ve yapay zekâ entegrasyonu üzerine odaklanıyorum.
 
 İşin teknik tarafıyla yetinmiyor, **Türkçe teknoloji içeriği** üretmeye de zaman ayırıyorum — çünkü teknolojiyi anlamak yetmez, anlatmak da lazım.
 
 ```yaml
 location:    İstanbul, Türkiye 🇹🇷
-role:        Cloud & AI Engineer
+role:        Danışman · Consultant
 focus:       Cloud-native systems · DevOps · AI integration · Technical writing
 philosophy:  "Build things that build things"
 ```
@@ -135,7 +135,8 @@ Yapay zekâ ile uçtan uca otomatize edilmiş içerik üretim akışıyla sürek
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [PowerToys 0.99: Monitör Kontrolü ve Pencere Yönetimi Kolaylaştı](https://www.askinkilic.com.tr/powertoys-099-monitor-kontrolu-ve-pencere-yonetimi-kolaylast/) &mdash; *28 Apr 2026*<br/>- [Copilot Chat PR İnceleme: Diff Üzerinde Yapay Zeka Desteği](https://www.askinkilic.com.tr/copilot-chat-pr-inceleme-diff-uzerinde-yapay-zeka-destegi/) &mdash; *28 Apr 2026*<br/>- [.NET 10’da API Versiyonlama ve OpenAPI Entegrasyonu: Pratik Rehber](https://www.askinkilic.com.tr/net-10da-api-versiyonlama-ve-openapi-entegrasyonu-pratik-reh/) &mdash; *28 Apr 2026*<br/>- [VS Code Python Environments Nisan Güncellemesi: Hız Farkı](https://www.askinkilic.com.tr/vs-code-python-environments-nisan-guncellemesi-hiz-farki/) &mdash; *28 Apr 2026*<br/>- [Copilot Student’ta GPT-5.3-Codex Kalktı: Ne Yapmalı?](https://www.askinkilic.com.tr/copilot-studentta-gpt-53-codex-kalkti-ne-yapmali/) &mdash; *27 Apr 2026*<br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️&nbsp; Tüm yazılar: **[askinkilic.com.tr](https://www.askinkilic.com.tr)**
 
