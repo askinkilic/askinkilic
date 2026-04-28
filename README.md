@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ============ HERO BANNER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=A%C5%9Fk%C4%B1n%20K%C4%B1l%C4%B1%C3%A7&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20AI%20Engineer&descSize=20&descAlignY=58&descColor=ffffff" width="100%" alt="Header banner" />
+<!-- Azure brand gradient (#0078D4 -> #00BCF2). 3-stop for richer transition. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:0078D4,100:00BCF2&height=240&section=header&text=A%C5%9Fk%C4%B1n%20K%C4%B1l%C4%B1%C3%A7&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%26%20AI%20Engineer&descSize=20&descAlignY=58&descColor=ffffff" width="100%" alt="Header banner" />
 
 <!-- ============ SOCIAL BADGES ============ -->
 <p>
@@ -132,7 +133,8 @@ Yapay zekâ ile uçtan uca otomatize edilmiş içerik üretim akışıyla sürek
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [PowerToys 0.99: Monitör Kontrolü ve Pencere Yönetimi Kolaylaştı](https://www.askinkilic.com.tr/powertoys-099-monitor-kontrolu-ve-pencere-yonetimi-kolaylast/) &mdash; *28 Apr 2026*<br/>- [Copilot Chat PR İnceleme: Diff Üzerinde Yapay Zeka Desteği](https://www.askinkilic.com.tr/copilot-chat-pr-inceleme-diff-uzerinde-yapay-zeka-destegi/) &mdash; *28 Apr 2026*<br/>- [.NET 10’da API Versiyonlama ve OpenAPI Entegrasyonu: Pratik Rehber](https://www.askinkilic.com.tr/net-10da-api-versiyonlama-ve-openapi-entegrasyonu-pratik-reh/) &mdash; *28 Apr 2026*<br/>- [VS Code Python Environments Nisan Güncellemesi: Hız Farkı](https://www.askinkilic.com.tr/vs-code-python-environments-nisan-guncellemesi-hiz-farki/) &mdash; *28 Apr 2026*<br/>- [Copilot Student’ta GPT-5.3-Codex Kalktı: Ne Yapmalı?](https://www.askinkilic.com.tr/copilot-studentta-gpt-53-codex-kalkti-ne-yapmali/) &mdash; *27 Apr 2026*<br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️&nbsp; Tüm yazılar: **[askinkilic.com.tr](https://www.askinkilic.com.tr)**
 
@@ -154,7 +156,7 @@ Yapay zekâ ile uçtan uca otomatize edilmiş içerik üretim akışıyla sürek
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:0078D4,100:00BCF2&height=120&section=footer" width="100%" alt="Footer banner" />
 
 <i>"Build things that build things — and write about them in Turkish."</i>
 
