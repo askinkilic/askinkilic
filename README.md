@@ -135,8 +135,7 @@ Yapay zekâ ile uçtan uca otomatize edilmiş içerik üretim akışıyla sürek
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [A2A v1 ile .NET’te Çapraz Platform Agent İletişimi](https://www.askinkilic.com.tr/a2a-v1-ile-nette-capraz-platform-agent-iletisimi/) &mdash; *29 Apr 2026*<br/>- [SPFx Yol Haritası Nisan 2026: AI Özellikleri ve 1.23 RC](https://www.askinkilic.com.tr/spfx-yol-haritasi-nisan-2026-ai-ozellikleri-ve-123-rc/) &mdash; *28 Apr 2026*<br/>- [PowerToys 0.99: Monitör Kontrolü ve Pencere Yönetimi Kolaylaştı](https://www.askinkilic.com.tr/powertoys-099-monitor-kontrolu-ve-pencere-yonetimi-kolaylast/) &mdash; *28 Apr 2026*<br/>- [Copilot Chat PR İnceleme: Diff Üzerinde Yapay Zeka Desteği](https://www.askinkilic.com.tr/copilot-chat-pr-inceleme-diff-uzerinde-yapay-zeka-destegi/) &mdash; *28 Apr 2026*<br/>- [.NET 10’da API Versiyonlama ve OpenAPI Entegrasyonu: Pratik Rehber](https://www.askinkilic.com.tr/net-10da-api-versiyonlama-ve-openapi-entegrasyonu-pratik-reh/) &mdash; *28 Apr 2026*<br/><!-- BLOG-POST-LIST:END -->
 
 ➡️&nbsp; Tüm yazılar: **[askinkilic.com.tr](https://www.askinkilic.com.tr)**
 
