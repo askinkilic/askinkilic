@@ -52,17 +52,6 @@ philosophy:  "Build things that build things"
 - ✍️&nbsp;&nbsp; **Technical Content** — Türkçe teknoloji blogu, dokümantasyon, eğitim
 
 ---
-
-## 🚀 Featured Work
-
-### 🌐 [askinkilic.com.tr](https://www.askinkilic.com.tr)
-
-> *AI destekli Türkçe teknoloji blogu*
-
-Yapay zekâ ile uçtan uca otomatize edilmiş içerik üretim akışıyla sürekli yayında olan bir platform. Cloud, DevOps ve AI alanındaki gelişmeleri Türk geliştirici topluluğuna ulaştırmayı hedefliyor.
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
